@@ -1,0 +1,10 @@
+paradex-py>=0.4.5
+python-dotenv>=1.0.0
+requests>=2.31.0
+numpy>=1.24.0
+pandas>=2.0.0
+eth-account==0.11.0
+httpx==0.27.0
+ledgereth==0.9.1
+marshmallow-dataclass==8.6.1
+starknet-crypto-py==0.1.0
