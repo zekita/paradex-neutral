@@ -1,0 +1,46 @@
+# Arquivos sensíveis
+.env
+.env.local
+.env.prod
+.env.development
+
+# Chaves e certificados
+*.key
+*.pem
+*.p12
+*.pfx
+
+# Logs
+*.log
+logs/
+
+# Dependências Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Dados temporários
+temp/
+tmp/
+*.tmp
+
+# Configurações específicas do usuário
+config.local.py
+secrets.py
